@@ -1,0 +1,53 @@
+﻿.area{
+	width:930px;
+	height:575px;
+	margin:auto;
+	margin-top:-2%;
+	margin-bottom:2%;	
+	background-image: url(../imagens/Tela_consulta.png);
+	background-size:930px;
+	background-repeat: no-repeat;
+	border:2px solid;
+	border-radius:10px;
+	font-family:Arial;
+	padding-top:200px;
+	box-shadow:15px 15px 5px gray;
+}
+input{
+	border-radius:5px;
+	border:1px outset #666666;
+	box-shadow:0px 0px 5px black;
+}
+select{
+	border-radius:5px;
+	border:1px outset #666666;
+	box-shadow:0px 0px 5px black;
+}
+#botao{
+	height:25px;
+	font-family:Arial Black;
+	font-size:15px;
+	cursor: pointer;
+	background-color:white;
+	box-shadow:0px 0px 10px black;
+}
+.result{
+	width:600px;
+	min-height:320px;
+	border:1px solid;
+	box-shadow:0px 0px 10px black;
+	margin:auto;
+	margin-top:5px;
+	margin-bottom:5px;
+	border-radius:10px;
+	background-color:#FFF;
+	text-align:center;
+	font-family:Arial;
+	padding-top:5px;
+}
+#table{
+	width:90%;
+	font-size:12px;
+	font-weight: normal;
+	margin-top:3%;
+}

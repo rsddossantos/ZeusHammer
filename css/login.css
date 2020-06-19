@@ -1,0 +1,47 @@
+﻿body{
+	margin:0;
+	background-color:#b8c7ce;
+}
+.login{
+	width:370px;
+	height:305px;
+	background-color:white;
+	margin:auto;
+	padding:20px;
+	margin-top:10%;
+	border: 1px solid gray;
+	border-radius:10px;
+	box-shadow:15px 15px 5px gray;
+}
+
+form{	
+	margin-top:20px;	
+}
+#logo{
+	width:300px;
+	margin-left:14px;
+ 
+}
+.iconInput input {
+    padding-left: 28px;
+}
+
+.iconInput i {
+    position: absolute;
+    padding: 9px 10px;
+}
+.iconInput {
+    position:relative;
+    margin: 10px 0;
+}
+#botao{
+	float:right;
+	
+}
+.info{
+	margin:auto;
+	margin-top:60px;
+	color:#FFFFFF;
+	font-size:12px;
+	text-align:center;
+}
